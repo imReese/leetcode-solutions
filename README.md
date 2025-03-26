@@ -4,21 +4,27 @@
 
 ---
 
+## 统计中心
+查看详细图表：[📈 刷题统计](./utils/statistics.md)
+
 ## 项目结构
 
 ```bash
-.
-├── problems/               # 题解目录
-│   ├── No.1 two-sum/       # 题目独立文件夹
-│   │   ├── README.md       # 题目解析（思路/复杂度/示例）
-│   │   ├── solution.py     # Python解法
-│   │   └── solution.cpp    # C++解法
-│   └── No.2 add-two-numbers/
-├── tags/                   # 算法标签分类
-│   ├── array.md            # 数组类题解索引
-│   ├── linked-list.md      # 链表类题解索引
+leetcode-solutions/
+├── README.md                  # 总目录&统计
+├── problems/                  # 题解目录
+│   ├── No.1 two-sum/          # 题目独立文件夹
+│   │   ├── README.md          # 题目解析（思路/复杂度/示例）
+│   │   ├── solution.cpp       # C++解法
+│   │   ├── solution.py        # Python解法
+│   │   └── testcases.txt      # 测试用例（可选）
+│   ├── No.2 add-two-numbers/
+│   │   └──...
+│   └── ...   
+├── tags/                      # 算法标签分类
+│   ├── array.md               # 数组类题解索引
+│   ├── linked-list.md         # 链表类题解索引
 │   └── ...
-├── README.md
 └── LICENSE
 ```
 
@@ -39,12 +45,12 @@
 
 ## 刷题进度表
 
-|题号|题目|难度|标签|解法|
-|---|---|---|---|---|
-|[0001](https://leetcode.cn/problems/two-sum/)|Two Sum|Easy|`Array`, `Hash`|[C++](https://github.com/imReese/leetcode-solutions/blob/main/problems/No.1%20two-sum/solution.cpp) [Python]https://github.com/imReese/leetcode-solutions/blob/main/problems/No.1%20two-sum/solution.py|
-|[0015](https://leetcode.cn/problems/3sum/)|3Sum|Medium|`Two Pointers`|[C++](https://./problems/0015-3Sum/solution.cpp)|
-|[0206](https://leetcode.cn/problems/reverse-linked-list/)|Reverse Linked List|Easy|`Linked List`|[C++](https://./problems/0206-Reverse-Linked-List/solution.cpp)|
-|[0322](https://leetcode.cn/problems/coin-change/)|Coin Change|Medium|`DP`|[C++](https://./problems/0322-Coin-Change/solution.cpp)|
+| 题号 | 题目 | 难度 | 标签 | 解法 | 
+|------|------|------|------|------|
+| [0001](https://leetcode.cn/problems/two-sum/) | Two Sum | Easy | `Array`, `Hash` | [C++](https://github.com/imReese/leetcode-solutions/blob/main/problems/No.1%20two-sum/solution.cpp), [Python](https://github.com/imReese/leetcode-solutions/blob/main/problems/No.1%20two-sum/solution.py)|
+| [0015](https://leetcode.cn/problems/3sum/) | 3Sum | Medium | `Two Pointers` | [C++](https://./problems/0015-3Sum/solution.cpp)|
+| [0206](https://leetcode.cn/problems/reverse-linked-list/) | Reverse Linked List | Easy | `Linked List` | [C++](https://./problems/0206-Reverse-Linked-List/solution.cpp)|
+| [0322](https://leetcode.cn/problems/coin-change/) | Coin Change | Medium | `DP` | [C++](https://./problems/0322-Coin-Change/solution.cpp)|
 
 
 ### 使用说明

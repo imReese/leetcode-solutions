@@ -150,4 +150,4 @@ def main():
         f.write(readme_content)
 
 if __name__ == "__main__":
-    main()
+    # main()
