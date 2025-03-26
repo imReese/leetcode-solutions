@@ -24,7 +24,7 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         for i in range(len(nums)):
-            for j in range(i+1, len(nums)):
+            for j in range(i + 1, len(nums)):
                 if nums[i] + nums[j] == target:
                     return [i, j]
 ```
@@ -46,10 +46,10 @@ class Solution:
 ```
 
 ### 复杂度对比
-| 方法    | 时间复杂度 | 空间复杂度 | 适用场景  |
+| 方法 | 时间复杂度 | 空间复杂度 | 适用场景 |
 | ----- | ----- | ----- | ----- |
-| 暴力枚举  | O(n²) | O(1)  | 小规模数据 |
-| 哈希表映射 | O(n)  | O(n)  | 大规模数据 |
+| 暴力枚举 | O(n²) | O(1) | 小规模数据 |
+| 哈希表映射 | O(n) | O(n) | 大规模数据 |
 
 ### 关键点
 哈希表解法中需要先查询后存储，避免同一元素被重复使用：
