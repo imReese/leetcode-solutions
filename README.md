@@ -45,15 +45,16 @@ leetcode-solutions/
 
 ## 刷题进度表
 
-| 题号 | 题目 | 难度 | 标签 | 解法 | 
-|------|------|------|------|------|
-| [0001](https://leetcode.cn/problems/two-sum/) | Two Sum | Easy | `Array`, `Hash` | [C++](https://github.com/imReese/leetcode-solutions/blob/main/problems/No.1%20two-sum/solution.cpp), [Python](https://github.com/imReese/leetcode-solutions/blob/main/problems/No.1%20two-sum/solution.py)|
-| [0015](https://leetcode.cn/problems/3sum/) | 3Sum | Medium | `Two Pointers` | [C++](https://./problems/0015-3Sum/solution.cpp)|
-| [0206](https://leetcode.cn/problems/reverse-linked-list/) | Reverse Linked List | Easy | `Linked List` | [C++](https://./problems/0206-Reverse-Linked-List/solution.cpp)|
-| [0322](https://leetcode.cn/problems/coin-change/) | Coin Change | Medium | `DP` | [C++](https://./problems/0322-Coin-Change/solution.cpp)|
+| 题号                                                        | 题目                  | 难度     | 标签              | 解法                                                                                                                                                                                                         |     |
+| --------------------------------------------------------- | ------------------- | ------ | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| [0001](https://leetcode.cn/problems/two-sum/)             | Two Sum             | Easy   | `Array`, `Hash` | [C++](https://github.com/imReese/leetcode-solutions/blob/main/problems/No.1%20two-sum/solution.cpp), [Python](https://github.com/imReese/leetcode-solutions/blob/main/problems/No.1%20two-sum/solution.py) |     |
+| [0015](https://leetcode.cn/problems/3sum/)                | 3Sum                | Medium | `Two Pointers`  | [C++](https://./problems/0015-3Sum/solution.cpp)                                                                                                                                                           |     |
+| [0206](https://leetcode.cn/problems/reverse-linked-list/) | Reverse Linked List | Easy   | `Linked List`   | [C++](https://./problems/0206-Reverse-Linked-List/solution.cpp)                                                                                                                                            |     |
+| [0322](https://leetcode.cn/problems/coin-change/)         | Coin Change         | Medium | `DP`            | [C++](https://./problems/0322-Coin-Change/solution.cpp)                                                                                                                                                    |     |
+|                                                           |                     |        |                 |                                                                                                                                                                                                            |     |
 
 
-### 使用说明
+## 使用说明
 
 1. 查找题解
 ```
