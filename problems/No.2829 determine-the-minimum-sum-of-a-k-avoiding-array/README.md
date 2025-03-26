@@ -33,11 +33,9 @@ class Solution {
             while (nums.size() < n) {
                 if (nums.find(k - num) == nums.end()) {
                     nums.insert(num);
+                    res += num;
                 }
                 num++;
-            }
-            for (int num : nums) {
-                res += num;
             }
             return res;
         }
