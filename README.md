@@ -1,11 +1,11 @@
 # LeetCode Solutions 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT?) [![Total Problems](https://img.shields.io/badge/Total%20Solved-22-orange)](https://github.com/imReese/leetcode-solutions/tree/main/problems/) [![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20C++-blue)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT?) [![Total Problems](https://img.shields.io/badge/Total%20Solved-22-orange)](https://github.com/imReese/leetcode-solutions/tree/main/problems/) [![Languages](https://img.shields.io/badge/Languages-C++%20%7C%20Python-blue)]()
 
 ---
 
 ## 统计中心
-查看详细图表：[📈 刷题统计](./utils/statistics.md)
+查看详细图表: [📈 刷题统计](./utils/statistics.md)
 
 ## 项目结构
 
@@ -31,16 +31,16 @@ leetcode-solutions/
 
 ## 标签导航
 
-按算法类型快速定位：
-- 🔍 **数组/双指针**：[Array](./tags/array.md)
+按算法类型快速定位:
+- 🔍 **数组/双指针**: [Array](./tags/array.md)
     
-- 🔗 **链表**：[Linked List](./tags/linked-list.md)
+- 🔗 **链表**: [Linked List](./tags/linked-list.md)
     
-- 🌲 **树**：[Binary Tree](./tags/binary-tree.md)
+- 🌲 **树**: [Binary Tree](./tags/binary-tree.md)
     
-- 🧮 **动态规划**：[Dynamic Programming](./tags/dp.md)
+- 🧮 **动态规划**: [Dynamic Programming](./tags/dp.md)
     
-- ⏱️ **滑动窗口**：[Sliding Window](./tags/sliding-window.md)
+- ⏱️ **滑动窗口**: [Sliding Window](./tags/sliding-window.md)
 
 
 ## 刷题进度表
@@ -48,7 +48,7 @@ leetcode-solutions/
 | 题号 | 题目 | 难度 | 标签 | 解法 |
 | ----- | ----- | ----- | ----- | ----- |
 | [1](https://leetcode.cn/problems/two-sum/) | Two Sum | Easy | `Array`, `Hash` | [C++](https://github.com/imReese/leetcode-solutions/blob/main/problems/No.1%20two-sum/solution.cpp), [Python](https://github.com/imReese/leetcode-solutions/blob/main/problems/No.1%20two-sum/solution.py) |
-| [15](https://leetcode.cn/problems/3sum/) | 3Sum | Medium | `Two Pointers`  | [C++](https://./problems/0015-3Sum/solution.cpp) |
+| [15](https://leetcode.cn/problems/3sum/) | 3Sum | Medium | `Two Pointers` | [C++](https://./problems/0015-3Sum/solution.cpp) |
 | [206](https://leetcode.cn/problems/reverse-linked-list/) | Reverse Linked List | Easy | `Linked List` | [C++](https://./problems/0206-Reverse-Linked-List/solution.cpp) |
 | [322](https://leetcode.cn/problems/coin-change/) | Coin Change | Medium | `DP` | [C++](https://./problems/0322-Coin-Change/solution.cpp) |
 |     |     |     |     |     |
@@ -71,13 +71,13 @@ python3 problems/No.1 two-sum/solution.py
 
 ## 贡献指南
 
-欢迎提交：
+欢迎提交:
 
 - 🐛 修正代码错误
 - 🚀 新增高效解法
 - 📝 补充题目解析
 
-请遵循：
+请遵循:
 
-1. 新增题目时创建独立文件夹（格式：`题号-题目名`）
+1. 新增题目时创建独立文件夹（格式: `题号-题目名`）
 2. 在对应标签文档中添加索引
