@@ -1,6 +1,6 @@
 # LeetCode Solutions 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT?) [![Total Problems](https://img.shields.io/badge/Total%20Solved-22-orange)](https://github.com/imReese/leetcode-solutions) [![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20C++-blue)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT?) [![Total Problems](https://img.shields.io/badge/Total%20Solved-22-orange)](https://github.com/imReese/leetcode-solutions/tree/main/problems/) [![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20C++-blue)]()
 
 ---
 
