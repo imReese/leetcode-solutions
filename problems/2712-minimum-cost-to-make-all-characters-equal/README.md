@@ -28,7 +28,7 @@
 - 时间复杂度: O(n)
 - 空间复杂度: O(1)
 
-```c++
+```cpp
 // solution.cpp
 class Solution {
     public:

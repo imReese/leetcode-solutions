@@ -1,4 +1,4 @@
-# 7. 整数翻转(Reverse Integer)
+# 7. 整数翻转 (Reverse Integer)
 
 [LeetCode 原题链接](https://leetcode.cn/problems/reverse-integer/) | 难度: **中等** | 标签: `数学`
 
@@ -53,3 +53,7 @@ class Solution:
 ## 相似题目
 
 - [8. 字符串转换整数(atoi)](https://leetcode.cn/problems/string-to-integer-atoi/)
+
+## Tags
+
+[数学](/tags/math.md)

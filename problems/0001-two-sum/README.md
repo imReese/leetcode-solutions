@@ -73,3 +73,7 @@ hashmap[num] = i  # 后存储当前元素
 ## 相似题目
 
 - [15. 三数之和](https://leetcode.cn/problems/3sum/)
+
+## Tags
+
+[数组](/tags/array.md) | [哈希表](/tags/hash-table.md)

@@ -14,12 +14,12 @@
 leetcode-solutions/
 ├── README.md                  # 总目录&统计
 ├── problems/                  # 题解目录
-│   ├── No.1 two-sum/          # 题目独立文件夹
+│   ├── 0001-two-sum/          # 题目独立文件夹
 │   │   ├── README.md          # 题目解析（思路/复杂度/示例）
 │   │   ├── solution.cpp       # C++解法
 │   │   ├── solution.py        # Python解法
 │   │   └── testcases.txt      # 测试用例（可选）
-│   ├── No.2 add-two-numbers/
+│   ├── 0002-add-two-numbers/
 │   │   └──...
 │   └── ...   
 ├── tags/                      # 算法标签分类
@@ -43,11 +43,13 @@ leetcode-solutions/
 
 | 题号 | 题目 | 难度 | 标签 | 解法 |
 | ----- | ----- | ----- | ----- | ----- |
-| [1](https://leetcode.cn/problems/two-sum/) | Two Sum | Easy | `Array`, `Hash` | [C++](https://github.com/imReese/leetcode-solutions/blob/main/problems/No.1%20two-sum/solution.cpp), [Python](https://github.com/imReese/leetcode-solutions/blob/main/problems/No.1%20two-sum/solution.py) |
-| [15](https://leetcode.cn/problems/3sum/) | 3Sum | Medium | `Two Pointers` | [C++](https://./problems/0015-3Sum/solution.cpp) |
-| [206](https://leetcode.cn/problems/reverse-linked-list/) | Reverse Linked List | Easy | `Linked List` | [C++](https://./problems/0206-Reverse-Linked-List/solution.cpp) |
-| [322](https://leetcode.cn/problems/coin-change/) | Coin Change | Medium | `DP` | [C++](https://./problems/0322-Coin-Change/solution.cpp) |
-|     |     |     |     |     |
+| [1](https://leetcode.cn/problems/two-sum/) | Two Sum | Easy | `数组`、`哈希表` | [C++](https://github.com/imReese/leetcode-solutions/blob/main/problems/0001-two-sum/solution.cpp), [Python](https://github.com/imReese/leetcode-solutions/blob/main/problems/0001-two-sum/solution.py) |
+| [7](https://leetcode.cn/problems/reverse-integer/) | Reverse Integer | Meidum | `数学` | [C++](https://github.com/imReese/leetcode-solutions/blob/main/problems/0007-reverse-integer/solution.cpp), [Python](https://github.com/imReese/leetcode-solutions/blob/main/problems/0007-reverse-integer/solution.py) |
+| [15](https://leetcode.cn/problems/3sum/) | 3Sum | Medium | `数组`, `双指针`, `排序` | [C++](https://github.com/imReese/leetcode-solutions/blob/main/problems/0015-3Sum/solution.cpp) |
+| [18](https://leetcode-cn.com/problems/4sum/) | 4Sum | Medium | `数组`, `双指针`, `排序` | [C++](https://github.com/imReese/leetcode-solutions/blob/main/problems/0018-4Sum/solution.cpp) |
+<!-- | [206](https://leetcode.cn/problems/reverse-linked-list/) | Reverse Linked List | Easy | `链表` | [C++](https://github.com/imReese/leetcode-solutions/blob/main/problems/0206-Reverse-Linked-List/solution.cpp) |
+| [322](https://leetcode.cn/problems/coin-change/) | Coin Change | Medium | `动态规划` | [C++](https://github.com/imReese/leetcode-solutions/blob/main/problems/0322-Coin-Change/solution.cpp) |
+|     |     |     |     |     | -->
 
 ## 使用说明
 
@@ -55,7 +57,7 @@ leetcode-solutions/
 
     ```bash
     # 按题号查找
-    cd problems/No.1 two-sum
+    cd problems/0001-two-sum
     # 按标签查找
     open tags/dp.md
     ```
@@ -64,7 +66,7 @@ leetcode-solutions/
 
     ```bash
     # Python示例
-    python3 problems/No.1 two-sum/solution.py
+    python3 problems/0001-two-sum/solution.py
     ```
 
 ## 贡献指南

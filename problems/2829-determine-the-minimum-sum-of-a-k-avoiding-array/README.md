@@ -27,7 +27,7 @@
 - 时间复杂度: 平均O(n), 最坏O(k)
 - 空间复杂度: O(n)
 
-``` c++
+``` cpp
 // solution.cpp
 class Solution {
     public:
@@ -53,7 +53,7 @@ class Solution {
 - 时间复杂度: O(1)
 - 空间复杂度: O(1)
 
-``` c++
+``` cpp
 // solution.cpp
 class Solution {
     public:
