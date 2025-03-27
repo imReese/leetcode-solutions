@@ -1,10 +1,11 @@
-# LeetCode Solutions 
+# LeetCode Solutions
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT?) [![Total Problems](https://img.shields.io/badge/Total%20Solved-22-orange)](https://github.com/imReese/leetcode-solutions/tree/main/problems/) [![Languages](https://img.shields.io/badge/Languages-C++%20%7C%20Python-blue)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT?) [![Total Problems](https://img.shields.io/badge/Total%20Solved-22-orange)](https://github.com/imReese/leetcode-solutions/tree/main/problems/) [![Languages](https://img.shields.io/badge/Languages-C++%20%7C%20Python-blue)](https://en.wikipedia.org/wiki/C%2B%2B)
 
 ---
 
 ## 统计中心
+
 查看详细图表: [📈 刷题统计](./utils/statistics.md)
 
 ## 项目结构
@@ -28,20 +29,15 @@ leetcode-solutions/
 └── LICENSE
 ```
 
-
 ## 标签导航
 
 按算法类型快速定位:
-- 🔍 **数组/双指针**: [Array](./tags/array.md)
-    
-- 🔗 **链表**: [Linked List](./tags/linked-list.md)
-    
-- 🌲 **树**: [Binary Tree](./tags/binary-tree.md)
-    
-- 🧮 **动态规划**: [Dynamic Programming](./tags/dp.md)
-    
-- ⏱️ **滑动窗口**: [Sliding Window](./tags/sliding-window.md)
 
+- 🔍 **数组/双指针**: [Array](./tags/array.md)
+- 🔗 **链表**: [Linked List](./tags/linked-list.md)
+- 🌲 **树**: [Binary Tree](./tags/binary-tree.md)
+- 🧮 **动态规划**: [Dynamic Programming](./tags/dp.md)
+- ⏱️ **滑动窗口**: [Sliding Window](./tags/sliding-window.md)
 
 ## 刷题进度表
 
@@ -53,21 +49,23 @@ leetcode-solutions/
 | [322](https://leetcode.cn/problems/coin-change/) | Coin Change | Medium | `DP` | [C++](https://./problems/0322-Coin-Change/solution.cpp) |
 |     |     |     |     |     |
 
-
 ## 使用说明
 
 1. 查找题解
-```bash
-# 按题号查找
-cd problems/No.1 two-sum
-# 按标签查找
-open tags/dp.md
-```
+
+    ```bash
+    # 按题号查找
+    cd problems/No.1 two-sum
+    # 按标签查找
+    open tags/dp.md
+    ```
+
 2. 运行代码
-```bash
-# Python示例
-python3 problems/No.1 two-sum/solution.py
-```
+
+    ```bash
+    # Python示例
+    python3 problems/No.1 two-sum/solution.py
+    ```
 
 ## 贡献指南
 
