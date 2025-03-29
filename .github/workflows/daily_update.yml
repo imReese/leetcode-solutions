@@ -14,34 +14,37 @@ on:
 jobs:
   generate-readme:
     runs-on: ubuntu-latest
-    
+
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
       with:
         # 必须开启写入权限
         persist-credentials: false
-        
+
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
         python-version: "3.x"
-        
+
     - name: Install dependencies
       run: |
         # 如果有requirements.txt则安装
-        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-        
-    # - name: Run auto_generate.py
-    #   run: python3 utils\auto_generate.py
-      
-    # - name: Commit changes
-    #   run: |
-    #     git config --global user.name "GitHub Actions"
-    #     git config --global user.email "actions@github.com"
-    #     git add README.md
-    #     git diff --quiet && git diff --staged --quiet || git commit -m "Auto Update README"
-    #     git push origin HEAD:main
-    #   env:
-    #     # 需提前在仓库Settings → Secrets添加PAT
-    #     GITHUB_TOKEN: ${{ secrets.PAT }}
+        if [ -f "utils/requirements.txt" ]; then
+          pip install -r utils/requirements.txt
+        fi
+
+    - name: Run auto_generate.py
+      run: python3 utils/auto_update_readme.py
+
+    - name: Commit and Push
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        if ! git diff --exit-code --quiet README.md; then
+          git add README.md
+          git commit -m "Auto Update README"
+          git push "https://${{ github.actor }}:${{ secrets.PAT }}@github.com/${{ github.repository }}.git" HEAD:main
+        else
+          echo "No changes to README.md. Skipping commit and push."
+        fi
