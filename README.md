@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT?) [![Total Problems](https://img.shields.io/badge/Total%20Solved-28-orange)](https://github.com/imReese/leetcode-solutions/tree/main/problems/) [![Languages](https://img.shields.io/badge/Languages-C++%20%7C%20Python-blue)](https://github.com/imReese/leetcode-solutions/tree/main/languages/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT?) [![Total Problems](https://img.shields.io/badge/Total%20Solved-29-orange)](https://github.com/imReese/leetcode-solutions/tree/main/problems/) [![Languages](https://img.shields.io/badge/Languages-C++%20%7C%20Python-blue)](https://github.com/imReese/leetcode-solutions/tree/main/languages/)
 
 ---
 
@@ -71,6 +71,7 @@ leetcode-solutions/
 | [1706](https://leetcode.cn/problems/where-will-the-ball-fall/) | 球会落何处 | 中等 | `数组`、`矩阵`、`模拟` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/1706-where-will-the-ball-fall/solution.cpp) | 2025-02-15 |
 | [1834](https://leetcode-cn.com/problems/single-threaded-cpu/) | 单线程 CPU | 中等 | `数组`、`排序`、`堆（优先队列）` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/1834-single-threaded-cpu/solution.cpp) | 2025-02-18 |
 | [2080](https://www.leetcode.cn/problems/range-frequency-queries/) | 区间内查询数字的频率 | 中等 | `设计`、`线段树`、`数组`、`哈希表`、`二分查找` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/2080-range-frequency-queries/solution.cpp) | 2025-02-18 |
+| [2109](https://leetcode.cn/problems/adding-spaces-to-a-string/) | 向字符串添加空格 | 中等 | `数组`、`双指针`、`字符串`、`模拟` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/2109-adding-spaces-to-a-string/solution.cpp) [Python](https://github.com/imReese/leetcode-solutions/tree/main/problems/2109-adding-spaces-to-a-string/solution.py) | 2025-03-30 |
 | [2209](https://leetcode.cn/problems/minimum-white-tiles-after-covering-with-carpets/) | 用地毯覆盖后的最少白色砖块 | 困难 | `字符串`、`动态规划`、`前缀和` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/2209-minimum-white-tiles-after-covering-with-carpets/solution.cpp) | 2025-02-21 |
 | [2259](https://leetcode-cn.com/problems/remove-digit-from-number-to-maximize-result/) | 移除指定数字得到的最大结果 | 简单 | `贪心`、`字符串`、`枚举` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/2259-remove-digit-from-number-to-maximize-result/solution.cpp) | 2025-02-18 |
 | [2360](https://leetcode.cn/problems/longest-cycle-in-a-graph/) | 图中的最长环 | 困难 | `深度优先搜索`、`广度优先搜索`、`图`、`拓扑排序` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/2360-longest-cycle-in-a-graph/solution.cpp) | 2025-03-29 |
