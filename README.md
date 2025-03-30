@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT?) [![Total Problems](https://img.shields.io/badge/Total%20Solved-29-orange)](https://github.com/imReese/leetcode-solutions/tree/main/problems/) [![Languages](https://img.shields.io/badge/Languages-C++%20%7C%20Python-blue)](https://github.com/imReese/leetcode-solutions/tree/main/languages/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT?) [![Total Problems](https://img.shields.io/badge/Total%20Solved-30-orange)](https://github.com/imReese/leetcode-solutions/tree/main/problems/) [![Languages](https://img.shields.io/badge/Languages-C++%20%7C%20Python-blue)](https://github.com/imReese/leetcode-solutions/tree/main/languages/)
 
 ---
 
@@ -70,6 +70,7 @@ leetcode-solutions/
 | [1299](https://leetcode.cn/problems/replace-elements-with-greatest-element-on-right-side/) | 将每个元素替换为右侧最大元素 | 简单 | `数组` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/1299-replace-elements-with-greatest-element-on-right-side/solution.cpp) | 2025-02-18 |
 | [1706](https://leetcode.cn/problems/where-will-the-ball-fall/) | 球会落何处 | 中等 | `数组`、`矩阵`、`模拟` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/1706-where-will-the-ball-fall/solution.cpp) | 2025-02-15 |
 | [1834](https://leetcode-cn.com/problems/single-threaded-cpu/) | 单线程 CPU | 中等 | `数组`、`排序`、`堆（优先队列）` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/1834-single-threaded-cpu/solution.cpp) | 2025-02-18 |
+| [1963](https://leetcode.cn/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | 使字符串平衡的最小交换次数 | 中等 | `栈`、`贪心`、`双指针`、`字符串` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/1963-minimum-number-of-swaps-to-make-the-string-balanced/solution.cpp) [Python](https://github.com/imReese/leetcode-solutions/tree/main/problems/1963-minimum-number-of-swaps-to-make-the-string-balanced/solution.py) | 2025-03-30 |
 | [2080](https://www.leetcode.cn/problems/range-frequency-queries/) | 区间内查询数字的频率 | 中等 | `设计`、`线段树`、`数组`、`哈希表`、`二分查找` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/2080-range-frequency-queries/solution.cpp) | 2025-02-18 |
 | [2109](https://leetcode.cn/problems/adding-spaces-to-a-string/) | 向字符串添加空格 | 中等 | `数组`、`双指针`、`字符串`、`模拟` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/2109-adding-spaces-to-a-string/solution.cpp) [Python](https://github.com/imReese/leetcode-solutions/tree/main/problems/2109-adding-spaces-to-a-string/solution.py) | 2025-03-30 |
 | [2209](https://leetcode.cn/problems/minimum-white-tiles-after-covering-with-carpets/) | 用地毯覆盖后的最少白色砖块 | 困难 | `字符串`、`动态规划`、`前缀和` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/2209-minimum-white-tiles-after-covering-with-carpets/solution.cpp) | 2025-02-21 |
