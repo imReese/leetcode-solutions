@@ -102,9 +102,7 @@ leetcode-solutions/
 2. 运行代码
 
     ```bash
-    copy solution.cpp
-    # 或
-    copy solution.py
+    copy solution.cpp 或 copy solution.py ...
     到对应链接的leetcode网站运行
     ```
 
