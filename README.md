@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT?) [![Total Problems](https://img.shields.io/badge/Total%20Solved-30-orange)](https://github.com/imReese/leetcode-solutions/tree/main/problems/) [![Languages](https://img.shields.io/badge/Languages-C++%20%7C%20Python-blue)](https://github.com/imReese/leetcode-solutions/tree/main/languages/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT?) [![Total Problems](https://img.shields.io/badge/Total%20Solved-31-orange)](https://github.com/imReese/leetcode-solutions/tree/main/problems/) [![Languages](https://img.shields.io/badge/Languages-C++%20%7C%20Python-blue)](https://github.com/imReese/leetcode-solutions/tree/main/languages/)
 
 ---
 
@@ -75,6 +75,7 @@ leetcode-solutions/
 | [2109](https://leetcode.cn/problems/adding-spaces-to-a-string/) | 向字符串添加空格 | 中等 | `数组`、`双指针`、`字符串`、`模拟` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/2109-adding-spaces-to-a-string/solution.cpp) [Python](https://github.com/imReese/leetcode-solutions/tree/main/problems/2109-adding-spaces-to-a-string/solution.py) | 2025-03-30 |
 | [2209](https://leetcode.cn/problems/minimum-white-tiles-after-covering-with-carpets/) | 用地毯覆盖后的最少白色砖块 | 困难 | `字符串`、`动态规划`、`前缀和` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/2209-minimum-white-tiles-after-covering-with-carpets/solution.cpp) | 2025-02-21 |
 | [2259](https://leetcode-cn.com/problems/remove-digit-from-number-to-maximize-result/) | 移除指定数字得到的最大结果 | 简单 | `贪心`、`字符串`、`枚举` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/2259-remove-digit-from-number-to-maximize-result/solution.cpp) | 2025-02-18 |
+| [2278](https://leetcode.cn/problems/percentage-of-letter-in-string/) | 字母在字符串中的百分比 | 简单 | `字符串` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/2278-percentage-of-letter-in-string/solution.cpp) [Python](https://github.com/imReese/leetcode-solutions/tree/main/problems/2278-percentage-of-letter-in-string/solution.py) | 2025-03-31 |
 | [2360](https://leetcode.cn/problems/longest-cycle-in-a-graph/) | 图中的最长环 | 困难 | `深度优先搜索`、`广度优先搜索`、`图`、`拓扑排序` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/2360-longest-cycle-in-a-graph/solution.cpp) | 2025-03-29 |
 | [2502](https://leetcode.cn/problems/design-memory-allocator/description/) | 设计内存分配器 | 中等 | `设计`、`数组`、`哈希表`、`模拟` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/2502-design-memory-allocator/solution.cpp) | 2025-02-25 |
 | [2506](https://leetcode.cn/problems/count-pairs-of-similar-strings/) | 统计相似字符串对的数目 | 简单 | `位运算`、`数组`、`哈希表`、`字符串`、`计数` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/2506-count-pairs-of-similar-strings/solution.cpp) | 2025-02-22 |
