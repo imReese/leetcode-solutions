@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT?) [![Total Problems](https://img.shields.io/badge/Total%20Solved-31-orange)](https://github.com/imReese/leetcode-solutions/tree/main/problems/) [![Languages](https://img.shields.io/badge/Languages-C++%20%7C%20Python-blue)](https://github.com/imReese/leetcode-solutions/tree/main/languages/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT?) [![Total Problems](https://img.shields.io/badge/Total%20Solved-32-orange)](https://github.com/imReese/leetcode-solutions/tree/main/problems/) [![Languages](https://img.shields.io/badge/Languages-C++%20%7C%20Python-blue)](https://github.com/imReese/leetcode-solutions/tree/main/languages/)
 
 ---
 
@@ -64,6 +64,7 @@ leetcode-solutions/
 | [27](https://leetcode.cn/problems/remove-element/) | 移除元素 | 简单 | `数组`、`双指针` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/0027-remove-element/solution.cpp) | 2025-02-22 |
 | [349](https://leetcode.cn/problems/intersection-of-two-arrays/) | 两个数组的交集 | 简单 | `数组`、`哈希表`、`双指针`、`二分查找`、`排序` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/0349-intersection-of-two-arrays/solution.cpp) | 2025-03-29 |
 | [624](https://leetcode.cn/problems/maximum-distance-in-arrays/) | 数组列表中的最大距离 | 中等 | `贪心`、`数组` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/0624-maximum-distance-in-arrays/solution.cpp) | 2025-02-19 |
+| [633](https://leetcode.cn/problems/sum-of-square-numbers/) | 平方数之和 | 中等 | `数学`、`双指针`、`二分查找` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/0633-sum-of-square-numbers/solution.cpp) | 2025-03-31 |
 | [888](https://leetcode.cn/problems/fair-candy-swap/) | 公平的糖果交换 | 简单 | `数组`、`哈希表`、`二分查找`、`排序` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/0888-fair-candy-swap/solution.cpp) | 2025-02-22 |
 | [914](https://leetcode.cn/problems/x-of-a-kind-in-a-deck-of-cards/) | 卡牌分组 | 简单 | `数组`、`哈希表`、`数学`、`计数`、`数论` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/0914-x-of-a-kind-in-a-deck-of-cards/solution.cpp) | 2025-02-22 |
 | [1287](https://leetcode.cn/problems/element-appearing-more-than-25-in-sorted-array/) | 有序数组中出现次数超过25%的元素 | 简单 | `数组` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/1287-element-appearing-more-than-25-in-sorted-array/solution.cpp) | 2025-02-17 |
