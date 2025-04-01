@@ -39,7 +39,7 @@ leetcode-solutions/
 - 🔍 **数组/双指针**: [Array](./tags/array.md)
 - 🔗 **链表**: [Linked List](./tags/linked-list.md)
 - 🌲 **树**: [Binary Tree](./tags/binary-tree.md)
-- 🧮 **动态规划**: [Dynamic Programming](./tags/dp.md)
+- 🧮 **动态规划**: [Dynamic Programming](./tags/dynamic-programming.md)
 - ⏱️ **滑动窗口**: [Sliding Window](./tags/sliding-window.md)
 - 🔍 **搜索**: [Search](./tags/search.md)
 - 🧮 **数学**: [Math](./tags/math.md)
