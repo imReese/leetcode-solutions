@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT?) [![Total Problems](https://img.shields.io/badge/Total%20Solved-33-orange)](https://github.com/imReese/leetcode-solutions/tree/main/problems/) [![Languages](https://img.shields.io/badge/Languages-C++%20%7C%20Python-blue)](https://github.com/imReese/leetcode-solutions/tree/main/languages/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT?) [![Total Problems](https://img.shields.io/badge/Total%20Solved-34-orange)](https://github.com/imReese/leetcode-solutions/tree/main/problems/) [![Languages](https://img.shields.io/badge/Languages-C++%20%7C%20Python-blue)](https://github.com/imReese/leetcode-solutions/tree/main/languages/)
 
 ---
 
@@ -89,6 +89,7 @@ leetcode-solutions/
 | [2829](https://leetcode.cn/problems/determine-the-minimum-sum-of-a-k-avoiding-array/) | k-avoiding 数组的最小总和 | 中等 | `贪心`、`数学` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/2829-determine-the-minimum-sum-of-a-k-avoiding-array/solution.cpp) | 2025-03-26 |
 | [3439](https://leetcode.cn/problems/reschedule-meetings-for-maximum-free-time-i/) | 重新安排会议得到最多空余时间 I | 中等 | `贪心`、`数组`、`滑动窗口` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/3439-reschedule-meetings-for-maximum-free-time-i/solution.cpp) | 2025-02-20 |
 | [3440](https://leetcode.cn/problems/reschedule-meetings-for-maximum-free-time-ii/) | 重新安排会议得到最多空余时间 II | 中等 | `贪心`、`数组`、`枚举` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/3440-reschedule-meetings-for-maximum-free-time-ii/solution.cpp) | 2025-02-20 |
+| [LCR 133](https://leetcode.cn/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | 位 1 的个数 | 简单 | `位运算` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/LCR133-er-jin-zhi-zhong-1de-ge-shu-lcof/solution.cpp) [Python](https://github.com/imReese/leetcode-solutions/tree/main/problems/LCR133-er-jin-zhi-zhong-1de-ge-shu-lcof/solution.py) | 2025-04-01 |
 | [LCR 191](https://leetcode.cn/problems/gou-jian-cheng-ji-shu-zu-lcof/) | 按规则计算统计结果 | 中等 | `数组`、`前缀和` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/LCR191-gou-jian-cheng-ji-shu-zu-lcof/solution.cpp) | 2025-02-18 |
 
 ## 使用说明
