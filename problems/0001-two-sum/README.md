@@ -24,7 +24,7 @@
 - 时间复杂度: O(n²)
 - 空间复杂度: O(1)
 
-``` python
+```python
 # solution.py
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
