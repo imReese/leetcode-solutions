@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT?) [![Total Problems](https://img.shields.io/badge/Total%20Solved-36-orange)](https://github.com/imReese/leetcode-solutions/tree/main/problems/) [![Languages](https://img.shields.io/badge/Languages-C++%20%7C%20Python-blue)](https://github.com/imReese/leetcode-solutions/tree/main/languages/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT?) [![Total Problems](https://img.shields.io/badge/Total%20Solved-38-orange)](https://github.com/imReese/leetcode-solutions/tree/main/problems/) [![Languages](https://img.shields.io/badge/Languages-C++%20%7C%20Python-blue)](https://github.com/imReese/leetcode-solutions/tree/main/languages/)
 
 ---
 
@@ -88,10 +88,12 @@ leetcode-solutions/
 | [2716](https://leetcode.cn/problems/minimize-string-length/) | 最小化字符串长度 | 简单 | `哈希表`、`字符串` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/2716-minimize-string-length/solution.cpp) | 2025-03-28 |
 | [2829](https://leetcode.cn/problems/determine-the-minimum-sum-of-a-k-avoiding-array/) | k-avoiding 数组的最小总和 | 中等 | `贪心`、`数学` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/2829-determine-the-minimum-sum-of-a-k-avoiding-array/solution.cpp) | 2025-03-26 |
 | [2873](https://leetcode.cn/problems/maximum-value-of-an-ordered-triplet-i/) | 有序三元组中的最大值 I | 简单 | `数组` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/2873-maximum-value-of-an-ordered-triplet-i/solution.cpp) [Python](https://github.com/imReese/leetcode-solutions/tree/main/problems/2873-maximum-value-of-an-ordered-triplet-i/solution.py) | 2025-04-02 |
+| [2874](https://leetcode.cn/problems/maximum-value-of-an-ordered-triplet-ii) | 有序三元组中的最大值 II | 中等 | `数组` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/2874-maximum-value-of-an-ordered-triplet-ii/solution.cpp) [Python](https://github.com/imReese/leetcode-solutions/tree/main/problems/2874-maximum-value-of-an-ordered-triplet-ii/solution.py) | 2025-04-03 |
 | [3250](https://leetcode.cn/problems/find-the-count-of-monotonic-pairs-i/) | 单调数组对的数目 I | 困难 | `数组`、`数学`、`动态规划`、`组合数学`、`前缀和` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/3250-find-the-count-of-monotonic-pairs-i/solution.cpp) [Python](https://github.com/imReese/leetcode-solutions/tree/main/problems/3250-find-the-count-of-monotonic-pairs-i/solution.py) | 2025-04-02 |
 | [3439](https://leetcode.cn/problems/reschedule-meetings-for-maximum-free-time-i/) | 重新安排会议得到最多空余时间 I | 中等 | `贪心`、`数组`、`滑动窗口` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/3439-reschedule-meetings-for-maximum-free-time-i/solution.cpp) | 2025-02-20 |
 | [3440](https://leetcode.cn/problems/reschedule-meetings-for-maximum-free-time-ii/) | 重新安排会议得到最多空余时间 II | 中等 | `贪心`、`数组`、`枚举` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/3440-reschedule-meetings-for-maximum-free-time-ii/solution.cpp) | 2025-02-20 |
 | [LCR 133](https://leetcode.cn/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | 位 1 的个数 | 简单 | `位运算` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/LCR133-er-jin-zhi-zhong-1de-ge-shu-lcof/solution.cpp) [Python](https://github.com/imReese/leetcode-solutions/tree/main/problems/LCR133-er-jin-zhi-zhong-1de-ge-shu-lcof/solution.py) | 2025-04-01 |
+| [LCR 170](https://leetcode.cn/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) | 交易逆序对的总数 | 困难 | `树状数组`、`线段树`、`数组`、`二分查找`、`分治`、`有序集合`、`归并排序` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/LCR170-shu-zu-zhong-de-ni-xu-dui-lcof/solution.cpp) [Python](https://github.com/imReese/leetcode-solutions/tree/main/problems/LCR170-shu-zu-zhong-de-ni-xu-dui-lcof/solution.py) | 2025-04-03 |
 | [LCR 191](https://leetcode.cn/problems/gou-jian-cheng-ji-shu-zu-lcof/) | 按规则计算统计结果 | 中等 | `数组`、`前缀和` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/LCR191-gou-jian-cheng-ji-shu-zu-lcof/solution.cpp) | 2025-02-18 |
 
 ## 使用说明
