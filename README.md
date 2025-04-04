@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT?) [![Total Problems](https://img.shields.io/badge/Total%20Solved-38-orange)](https://github.com/imReese/leetcode-solutions/tree/main/problems/) [![Languages](https://img.shields.io/badge/Languages-C++%20%7C%20Python-blue)](https://github.com/imReese/leetcode-solutions/tree/main/languages/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT?) [![Total Problems](https://img.shields.io/badge/Total%20Solved-40-orange)](https://github.com/imReese/leetcode-solutions/tree/main/problems/) [![Languages](https://img.shields.io/badge/Languages-C++%20%7C%20Python-blue)](https://github.com/imReese/leetcode-solutions/tree/main/languages/)
 
 ---
 
@@ -67,6 +67,8 @@ leetcode-solutions/
 | [633](https://leetcode.cn/problems/sum-of-square-numbers/) | 平方数之和 | 中等 | `数学`、`双指针`、`二分查找` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/0633-sum-of-square-numbers/solution.cpp) | 2025-03-31 |
 | [888](https://leetcode.cn/problems/fair-candy-swap/) | 公平的糖果交换 | 简单 | `数组`、`哈希表`、`二分查找`、`排序` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/0888-fair-candy-swap/solution.cpp) | 2025-02-22 |
 | [914](https://leetcode.cn/problems/x-of-a-kind-in-a-deck-of-cards/) | 卡牌分组 | 简单 | `数组`、`哈希表`、`数学`、`计数`、`数论` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/0914-x-of-a-kind-in-a-deck-of-cards/solution.cpp) | 2025-02-22 |
+| [1123](https://leetcode.cn/problems/lowest-common-ancestor-of-deepest-leaves/) | 最深叶节点的最近公共祖先 | 中等 | `树`、`深度优先搜索`、`广度优先搜索`、`哈希表`、`二叉树` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/1123-lowest-common-ancestor-of-deepest-leaves/solution.cpp) [Python](https://github.com/imReese/leetcode-solutions/tree/main/problems/1123-lowest-common-ancestor-of-deepest-leaves/solution.py) | 2025-04-04 |
+| [1278](https://leetcode.cn/problems/palindrome-partitioning-iii/) | 分割回文串 III | 困难 | `字符串`、`动态规划` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/1278-palindrome-partitioning-iii/solution.cpp) [Python](https://github.com/imReese/leetcode-solutions/tree/main/problems/1278-palindrome-partitioning-iii/solution.py) | 2025-04-04 |
 | [1287](https://leetcode.cn/problems/element-appearing-more-than-25-in-sorted-array/) | 有序数组中出现次数超过25%的元素 | 简单 | `数组` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/1287-element-appearing-more-than-25-in-sorted-array/solution.cpp) | 2025-02-17 |
 | [1299](https://leetcode.cn/problems/replace-elements-with-greatest-element-on-right-side/) | 将每个元素替换为右侧最大元素 | 简单 | `数组` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/1299-replace-elements-with-greatest-element-on-right-side/solution.cpp) | 2025-02-18 |
 | [1706](https://leetcode.cn/problems/where-will-the-ball-fall/) | 球会落何处 | 中等 | `数组`、`矩阵`、`模拟` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/1706-where-will-the-ball-fall/solution.cpp) | 2025-02-15 |
