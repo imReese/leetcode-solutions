@@ -36,7 +36,7 @@ leetcode-solutions/
 
 按算法类型快速定位:
 
-- 🔍 **数组/双指针**: [Array](./tags/array.md)
+- 🔖 **数组**: [Array](./tags/array.md)
 - 🔗 **链表**: [Linked List](./tags/linked-list.md)
 - 🌲 **树**: [Binary Tree](./tags/binary-tree.md)
 - 🧮 **动态规划**: [Dynamic Programming](./tags/dynamic-programming.md)
@@ -44,14 +44,15 @@ leetcode-solutions/
 - 🔍 **搜索**: [Search](./tags/search.md)
 - 🧮 **数学**: [Math](./tags/math.md)
 - 📚 **字符串**: [String](./tags/string.md)
-- 🧩 **哈希表**: [Hash Table](./tags/hash-table.md)
-- 🧩 **图**: [Graph](./tags/graph.md)
+- 🏷️ **哈希表**: [Hash Table](./tags/hash-table.md)
+- 🗺️ **图**: [Graph](./tags/graph.md)
 - 🧩 **位运算**: [Bit Manipulation](./tags/bit-manipulation.md)
-- 🧩 **二分查找**: [Binary Search](./tags/binary-search.md)
-- 🧩 **拓扑排序**: [Topological Sort](./tags/topological-sort.md)
-- 🧩 **双指针**: [Two Pointers](./tags/two-pointers.md)
-- 🧩 **矩阵**: [Matrix](./tags/matrix.md)
-- 🧩 **排序**: [Sorting](./tags/sorting.md)
+- 📌 **二分查找**: [Binary Search](./tags/binary-search.md)
+- 📊 **拓扑排序**: [Topological Sort](./tags/topological-sort.md)
+- 🖇️ **双指针**: [Two Pointers](./tags/two-pointers.md)
+- ⌨️ **矩阵**: [Matrix](./tags/matrix.md)
+- 📏 **排序**: [Sorting](./tags/sorting.md)
+- 🧭 **贪心**: [Greedy](./tags/greedy.md)
 
 ## 刷题进度表
 
