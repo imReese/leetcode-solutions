@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT?) [![Total Problems](https://img.shields.io/badge/Total%20Solved-49-orange)](https://github.com/imReese/leetcode-solutions/tree/main/problems/) [![Languages](https://img.shields.io/badge/Languages-C++%20%7C%20Python-blue)](https://github.com/imReese/leetcode-solutions/tree/main/languages/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT?) [![Total Problems](https://img.shields.io/badge/Total%20Solved-50-orange)](https://github.com/imReese/leetcode-solutions/tree/main/problems/) [![Languages](https://img.shields.io/badge/Languages-C++%20%7C%20Python-blue)](https://github.com/imReese/leetcode-solutions/tree/main/languages/)
 
 ---
 
@@ -76,6 +76,7 @@ leetcode-solutions/
 | [1299](https://leetcode.cn/problems/replace-elements-with-greatest-element-on-right-side/) | 将每个元素替换为右侧最大元素 | 简单 | `数组` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/1299-replace-elements-with-greatest-element-on-right-side/solution.cpp) | 2025-02-18 |
 | [1706](https://leetcode.cn/problems/where-will-the-ball-fall/) | 球会落何处 | 中等 | `数组`、`矩阵`、`模拟` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/1706-where-will-the-ball-fall/solution.cpp) | 2025-02-15 |
 | [1834](https://leetcode-cn.com/problems/single-threaded-cpu/) | 单线程 CPU | 中等 | `数组`、`排序`、`堆（优先队列）` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/1834-single-threaded-cpu/solution.cpp) | 2025-02-18 |
+| [1840](https://leetcode.cn/problems/maximum-building-height/) | 最高建筑高度 | 困难 | `数组`、`数学`、`排序` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/1840-maximum-building-height/solution.cpp) [Python](https://github.com/imReese/leetcode-solutions/tree/main/problems/1840-maximum-building-height/solution.py) | 2025-04-09 |
 | [1863](https://leetcode.cn/problems/sum-of-all-subset-xor-totals/) | 找出所有子集的异或总和再求和 | 简单 | `位运算`、`数组`、`数学`、`回溯`、`组合数学`、`枚举` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/1863-sum-of-all-subset-xor-totals/solution.cpp) [Python](https://github.com/imReese/leetcode-solutions/tree/main/problems/1863-sum-of-all-subset-xor-totals/solution.py) | 2025-04-06 |
 | [1963](https://leetcode.cn/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | 使字符串平衡的最小交换次数 | 中等 | `栈`、`贪心`、`双指针`、`字符串` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/1963-minimum-number-of-swaps-to-make-the-string-balanced/solution.cpp) [Python](https://github.com/imReese/leetcode-solutions/tree/main/problems/1963-minimum-number-of-swaps-to-make-the-string-balanced/solution.py) | 2025-03-30 |
 | [2080](https://www.leetcode.cn/problems/range-frequency-queries/) | 区间内查询数字的频率 | 中等 | `设计`、`线段树`、`数组`、`哈希表`、`二分查找` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/2080-range-frequency-queries/solution.cpp) | 2025-02-18 |
