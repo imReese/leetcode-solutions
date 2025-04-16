@@ -15,12 +15,15 @@ from typing import Dict, Optional, Any
 LANGUAGE_MAP = {
     "cpp": "cpp",
     "py": "python",
+    "go": "go",
     "java": "java"
 }
 
 SUPPORTED_EXTENSIONS = {  # 支持检测的代码文件
     "cpp": ("//", "/*", "*/"),
     "py": ("#", '"""', '"""'),
+    "go": ("//", "/*", "*/"),
+    "java": ("//", "/*", "*/")
 }
 
 # 难度转换
