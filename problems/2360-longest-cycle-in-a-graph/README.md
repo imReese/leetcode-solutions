@@ -14,7 +14,7 @@
 
 示例:
 
-![2360. 图中的最长环 - 示例](https://github.com/imReese/leetcode-solutions/blob/main/problems/2360-longest-cycle-in-a-graph/ex.png)
+![2360. 图中的最长环 - 示例](/problems/2360-longest-cycle-in-a-graph/ex.png)
 
 ```plaintext
 输入: edges = [3, 3, 4, 2, 3]

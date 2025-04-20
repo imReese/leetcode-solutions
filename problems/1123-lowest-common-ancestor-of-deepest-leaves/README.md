@@ -14,7 +14,7 @@
 
 示例:
 
-![1123. 最深叶节点的最近公共祖先 - 示例](https://github.com/imReese/leetcode-solutions/blob/main/problems/1123-lowest-common-ancestor-of-deepest-leaves/ex.png)
+![1123. 最深叶节点的最近公共祖先 - 示例](/problems/1123-lowest-common-ancestor-of-deepest-leaves/ex.png)
 
 ```plaintext
 输入: root = [3,5,1,6,2,0,8,null,null,7,4]

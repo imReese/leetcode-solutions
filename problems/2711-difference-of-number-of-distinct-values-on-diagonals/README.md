@@ -19,7 +19,7 @@
 
 示例:
 
-![2711. 对角线上不同值的数量差 - 示例](https://github.com/imReese/leetcode-solutions/blob/main/problems/2711-difference-of-number-of-distinct-values-on-diagonals/ex.png)
+![2711. 对角线上不同值的数量差 - 示例](/problems/2711-difference-of-number-of-distinct-values-on-diagonals/ex.png)
 
 ```plaintext
 输入：grid = [[1, 2, 3], [3, 1, 5], [3, 2, 1]]

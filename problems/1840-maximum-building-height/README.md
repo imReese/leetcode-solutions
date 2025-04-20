@@ -20,7 +20,7 @@
 
 示例:
 
-![1840. 最高建筑高度 - 示例](https://github.com/imReese/leetcode-solutions/blob/main/problems/1840-maximum-building-height/ex.png)
+![1840. 最高建筑高度 - 示例](/problems/1840-maximum-building-height/ex.png)
 
 ```plaintext
 输入: n = 5, restrictions = [[2,1],[4,1]]

@@ -10,7 +10,7 @@
 
 示例:
 
-![84. 柱状图中最大的矩形 - 示例](https://github.com/imReese/leetcode-solutions/blob/main/problems/0084-largest-rectangle-in-histogram/ex.png)
+![84. 柱状图中最大的矩形 - 示例](/problems/0084-largest-rectangle-in-histogram/ex.png)
 
 ```plaintext
 输入: heights = [2,1,5,6,2,3]

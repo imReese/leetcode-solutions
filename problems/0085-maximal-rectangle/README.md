@@ -8,7 +8,7 @@
 
 示例:
 
-[](![85. 最大矩形 - 示例](https://github.com/imReese/leetcode-solutions/blob/main/problems/0085-maximal-rectangle/ex.png))
+![85. 最大矩形 - 示例](/problems/0085-maximal-rectangle/ex.png)
 
 ```plaintext
 输入: matrix = [["1","0","1","0","0"],["1","0","1","1","1"],["1","1","1","1","1"],["1","0","0","1","0"]]
