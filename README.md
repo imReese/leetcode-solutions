@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT?) [![Total Problems](https://img.shields.io/badge/Total%20Solved-75-orange)](https://github.com/imReese/leetcode-solutions/tree/main/problems/) [![Languages](https://img.shields.io/badge/Languages-C++%20%7C%20Python%20%7C%20Go-blue)](https://github.com/imReese/leetcode-solutions/tree/main/languages/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT?) [![Total Problems](https://img.shields.io/badge/Total%20Solved-76-orange)](https://github.com/imReese/leetcode-solutions/tree/main/problems/) [![Languages](https://img.shields.io/badge/Languages-C++%20%7C%20Python%20%7C%20Go-blue)](https://github.com/imReese/leetcode-solutions/tree/main/languages/)
 
 ---
 
@@ -85,6 +85,7 @@ leetcode-solutions/
 | [1278](https://leetcode.cn/problems/palindrome-partitioning-iii/) | 分割回文串 III | 困难 | `字符串`、`动态规划` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/1278-palindrome-partitioning-iii/solution.cpp) [Python](https://github.com/imReese/leetcode-solutions/tree/main/problems/1278-palindrome-partitioning-iii/solution.py) | 2025-04-04 |
 | [1287](https://leetcode.cn/problems/element-appearing-more-than-25-in-sorted-array/) | 有序数组中出现次数超过25%的元素 | 简单 | `数组` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/1287-element-appearing-more-than-25-in-sorted-array/solution.cpp) | 2025-02-17 |
 | [1299](https://leetcode.cn/problems/replace-elements-with-greatest-element-on-right-side/) | 将每个元素替换为右侧最大元素 | 简单 | `数组` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/1299-replace-elements-with-greatest-element-on-right-side/solution.cpp) | 2025-02-18 |
+| [1399](https://leetcode.cn/problems/count-largest-group/) | 统计最大组的数目 | 简单 | `哈希表`、`数学` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/1399-count-largest-group/solution.cpp) [Python](https://github.com/imReese/leetcode-solutions/tree/main/problems/1399-count-largest-group/solution.py) [Go](https://github.com/imReese/leetcode-solutions/tree/main/problems/1399-count-largest-group/solution.go) | 2025-04-23 |
 | [1534](https://leetcode.cn/problems/count-good-triplets/) | 统计好三元组 | 简单 | `数组`、`枚举` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/1534-count-good-triplets/solution.cpp) [Python](https://github.com/imReese/leetcode-solutions/tree/main/problems/1534-count-good-triplets/solution.py) [Go](https://github.com/imReese/leetcode-solutions/tree/main/problems/1534-count-good-triplets/solution.go) | 2025-04-14 |
 | [1706](https://leetcode.cn/problems/where-will-the-ball-fall/) | 球会落何处 | 中等 | `数组`、`矩阵`、`模拟` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/1706-where-will-the-ball-fall/solution.cpp) | 2025-02-15 |
 | [1834](https://leetcode-cn.com/problems/single-threaded-cpu/) | 单线程 CPU | 中等 | `数组`、`排序`、`堆（优先队列）` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/1834-single-threaded-cpu/solution.cpp) | 2025-02-18 |
