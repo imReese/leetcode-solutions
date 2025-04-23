@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT?) [![Total Problems](https://img.shields.io/badge/Total%20Solved-76-orange)](https://github.com/imReese/leetcode-solutions/tree/main/problems/) [![Languages](https://img.shields.io/badge/Languages-C++%20%7C%20Python%20%7C%20Go-blue)](https://github.com/imReese/leetcode-solutions/tree/main/languages/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT?) [![Total Problems](https://img.shields.io/badge/Total%20Solved-77-orange)](https://github.com/imReese/leetcode-solutions/tree/main/problems/) [![Languages](https://img.shields.io/badge/Languages-C++%20%7C%20Python%20%7C%20Go-blue)](https://github.com/imReese/leetcode-solutions/tree/main/languages/)
 
 ---
 
@@ -61,6 +61,7 @@ leetcode-solutions/
 | [1](https://leetcode.cn/problems/two-sum/) | 两数之和 | 简单 | `数组`、`哈希表` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/0001-two-sum/solution.cpp) [Python](https://github.com/imReese/leetcode-solutions/tree/main/problems/0001-two-sum/solution.py) | 2025-03-26 |
 | [4](https://leetcode.cn/problems/median-of-two-sorted-arrays/) | 寻找两个正序数组的中位数 | 困难 | `数组`、`二分查找`、`分治` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/0004-median-of-two-sorted-arrays/solution.cpp) [Python](https://github.com/imReese/leetcode-solutions/tree/main/problems/0004-median-of-two-sorted-arrays/solution.py) | 2025-04-17 |
 | [7](https://leetcode.cn/problems/reverse-integer/) | 整数翻转 | 中等 | `数学` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/0007-reverse-integer/solution.cpp) [Python](https://github.com/imReese/leetcode-solutions/tree/main/problems/0007-reverse-integer/solution.py) | 2025-02-22 |
+| [10](https://leetcode.cn/problems/regular-expression-matching/) | 正则表达式匹配 | 困难 | `递归`、`字符串`、`动态规划` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/0010-regular-expression-matching/solution.cpp) [Python](https://github.com/imReese/leetcode-solutions/tree/main/problems/0010-regular-expression-matching/solution.py) [Go](https://github.com/imReese/leetcode-solutions/tree/main/problems/0010-regular-expression-matching/solution.go) | 2025-04-23 |
 | [15](https://leetcode.cn/problems/3sum/) | 三数之和 | 中等 | `数组`、`双指针`、`排序` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/0015-3sum/solution.cpp) | 2025-02-25 |
 | [18](https://leetcode.cn/problems/4sum/) | 四数之和 | 中等 | `数组`、`双指针`、`排序` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/0018-4sum/solution.cpp) | 2025-02-25 |
 | [25](https://leetcode.cn/problems/reverse-nodes-in-k-group/) | K 个一组翻转链表 | 困难 | `递归`、`链表` | [C++](https://github.com/imReese/leetcode-solutions/tree/main/problems/0025-reverse-nodes-in-k-group/solution.cpp) [Python](https://github.com/imReese/leetcode-solutions/tree/main/problems/0025-reverse-nodes-in-k-group/solution.py) [Go](https://github.com/imReese/leetcode-solutions/tree/main/problems/0025-reverse-nodes-in-k-group/solution.go) | 2025-04-14 |
