@@ -16,6 +16,7 @@ LANGUAGE_MAP = {
     "cpp": "cpp",
     "py": "python",
     "go": "go",
+    "sh": "shell",
     "java": "java"
 }
 
@@ -23,6 +24,7 @@ SUPPORTED_EXTENSIONS = {  # 支持检测的代码文件
     "cpp": ("//", "/*", "*/"),
     "py": ("#", '"""', '"""'),
     "go": ("//", "/*", "*/"),
+    "sh": ("#", "#", "#"),
     "java": ("//", "/*", "*/")
 }
 

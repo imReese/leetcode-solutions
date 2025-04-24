@@ -18,20 +18,21 @@ README_FILE = REPO_ROOT_DIR / "README.md"
 LANG_EXTENSIONS = {
     ".cpp": "C++",
     ".py": "Python",
+    ".go": "Go",
+    ".sh": "Shell",
     ".java": "Java",
     ".js": "JavaScript",
-    ".go": "Go"
 }
 
 # 语言注释前缀映射表（支持扩展）
 COMMENT_PREFIXES = {
     ".cpp": ("//", "/*", "*/"),    # C++
     ".py": ("#", '"""', '"""'),    # Python
+    ".go": ("//", "/*", "*/"),     # Go
+    ".sh": ("#", "#", "#"),        # Shell
+    ".swift": ("//", "/*", "*/"),  # Swift
     ".java": ("//", "/*", "*/"),   # Java
     ".js": ("//", "/*", "*/"),     # JavaScript
-    ".go": ("//", "/*", "*/"),     # Go
-    ".rs": ("//", "/*", "*/"),     # Rust
-    ".swift": ("//", "/*", "*/"),  # Swift
 }
 
 # ==========================================
