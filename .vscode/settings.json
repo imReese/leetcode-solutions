@@ -4,6 +4,12 @@
         "array": "cpp",
         "string_view": "cpp",
         "initializer_list": "cpp",
-        "span": "cpp"
+        "span": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "format": "cpp",
+        "text_encoding": "cpp"
     }
 }
