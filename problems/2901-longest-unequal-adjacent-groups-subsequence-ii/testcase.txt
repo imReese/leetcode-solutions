@@ -1,0 +1,23 @@
+示例 1：
+
+输入：n = 3, words = ["bab","dab","cab"], groups = [1,2,2]
+输出：["bab","cab"]
+解释：一个可行的子序列是 [0,2] 。
+- groups[0] != groups[2]
+- words[0].length == words[2].length 且它们之间的汉明距离为 1 。
+所以一个可行的答案是 [words[0],words[2]] = ["bab","cab"] 。
+另一个可行的子序列是 [0,1] 。
+- groups[0] != groups[1]
+- words[0].length = words[1].length 且它们之间的汉明距离为 1 。
+所以另一个可行的答案是 [words[0],words[1]] = ["bab","dab"] 。
+符合题意的最长子序列的长度为 2 。
+
+示例 2：
+
+输入：n = 4, words = ["a","b","c","d"], groups = [1,2,3,4]
+输出：["a","b","c","d"]
+解释：我们选择子序列 [0,1,2,3] 。
+它同时满足两个条件。
+所以答案为 [words[0],words[1],words[2],words[3]] = ["a","b","c","d"] 。
+它是所有下标子序列里最长且满足所有条件的。
+所以它是唯一的答案。
